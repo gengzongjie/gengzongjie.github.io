@@ -1,12 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Andy叔叔的博客</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Andy叔叔的博客</description>
-    <generator>Hugo</generator>
-    <language>zh-cn</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Andy叔叔的博客</title><link>https://gengzongjie.github.io/</link><description>Recent content on Andy叔叔的博客</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Tue, 12 Aug 2025 17:30:00 +0800</lastBuildDate><atom:link href="https://gengzongjie.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>叔叔的第一篇文章</title><link>https://gengzongjie.github.io/posts/andy-first-post/</link><pubDate>Tue, 12 Aug 2025 17:30:00 +0800</pubDate><guid>https://gengzongjie.github.io/posts/andy-first-post/</guid><description>&lt;h1 id="欢迎来到耿叔的博客">欢迎来到耿叔的博客！&lt;/h1>
+&lt;p>这是叔叔的第一篇文章，用 &lt;strong>Markdown&lt;/strong> 写的！Hugo 真棒！&lt;/p>
+&lt;ul>
+&lt;li>耿叔很棒&lt;/li>
+&lt;li>耿叔很棒&lt;/li>
+&lt;li>嗯，耿叔是很棒&lt;/li>
+&lt;li>重要的事情说三遍。。。&lt;/li>
+&lt;/ul></description></item></channel></rss>
