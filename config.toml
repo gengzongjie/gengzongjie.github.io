@@ -1,4 +1,5 @@
 baseURL = "https://gengzongjie.github.io/"  # 稍后替换成你的
+publishDir = "public"  # 确保此项存在
 languageCode = "zh-cn"
 title = "Andy叔叔的博客"
 theme = "ananke"
