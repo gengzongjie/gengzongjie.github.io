@@ -1,7 +1,8 @@
 ---
-title: "再来一篇"
-date: 2025-08-13T15:00:00+08:00
+title: "智能体Agent学习任务"
 draft: false  # 发布时改为 false
 ---
 
-# 这是通过github在线创建编辑新文档生成的！
+* 检索增强生成 RAG
+* 模型微调 SFT
+* 开发框架 AutoGen/LangChain
